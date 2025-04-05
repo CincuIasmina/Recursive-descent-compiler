@@ -1,0 +1,5 @@
+﻿  parser.c
+C:\Users\Iasmina\source\repos\proiectLFTC\proiectLFTC\parser.c(101,11): warning C4013: 'setRet' undefined; assuming extern returning int
+C:\Users\Iasmina\source\repos\proiectLFTC\proiectLFTC\parser.c(530,18): warning C4013: 'addPredefinedFns' undefined; assuming extern returning int
+C:\Users\Iasmina\source\repos\proiectLFTC\proiectLFTC\parser.c(62): warning C4715: 'baseType': not all control paths return a value
+  proiectLFTC.vcxproj -> C:\Users\Iasmina\source\repos\proiectLFTC\Debug\proiectLFTC.exe
